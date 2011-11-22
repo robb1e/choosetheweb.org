@@ -26,3 +26,8 @@ h3 {
     font-size: 15px;
     line-height: 150%;
 }
+
+
+    body {
+        border-top:solid 4px blue;
+    }
