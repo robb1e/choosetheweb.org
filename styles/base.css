@@ -163,6 +163,7 @@ footer {
 	}
     .nav {;
 		display:block;
+		margin:0.2em;
 	}
 
 }
@@ -185,16 +186,19 @@ footer {
     .nav {
 		list-style: none;
 		display:block;
+		padding: 0;
+		margin:0;
 	}
 	.nav li {
 		display: inline;
 		line-height: 2;
 	}
+
 	.nav li a {
-		padding: 1em;
+		padding: 0.4em;
 	}
 
     body {
-    	padding-top: 7em;
+    	padding-top: 5.5em;
     }
 }
